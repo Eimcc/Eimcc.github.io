@@ -15,7 +15,7 @@
 <li>选中编辑对象</li>
 <li>如图需要先设置匹配的条件外观（描边和填色的属性）和大小以及需要同步的位置（多个画板需要勾选）</li>
 </ol>
-<p><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200919233923272.png" alt="image-20200919233923272"></p>
+<p><img src="http://www.huzhencong.cn/img/image-20200919233923272.pngimages" alt="image-20200919233923272"></p>
 <ol start="3">
 <li>随后启动全局编辑即可看到符合条件的对象变蓝（选中状态）就可以编辑了</li>
 </ol>
@@ -25,13 +25,13 @@
 </ol>
 <h2 id="工具栏"><a href="#工具栏" class="headerlink" title="工具栏"></a>工具栏</h2><blockquote>
 <p>工具图标右下角有小三角的均表示此工具可以长按切换成其他类似工具，如图示矩形工具下包括“<strong>矩形工具</strong> <strong>圆角矩形工具**</strong> <strong>椭圆工具</strong>等”但是AI不支持按住“<strong>shift</strong>键+同一快捷键切换同一图标下的工具”</p>
-<p><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920000633214.png" alt="image-20200920000633214"></p>
+<p><img src="http://www.huzhencong.cn/img/image-20200920000633214.pngimages" alt="image-20200920000633214"></p>
 </blockquote>
-<h3 id="魔棒工具"><a href="#魔棒工具" class="headerlink" title="魔棒工具"></a>魔棒工具</h3><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920001105007.png" align='left' alt="image-20200920001105007"  />
+<h3 id="魔棒工具"><a href="#魔棒工具" class="headerlink" title="魔棒工具"></a>魔棒工具</h3><img src="http://www.huzhencong.cn/img/image-20200920001105007.pngimages" align='left' alt="image-20200920001105007"  />
 
 <p>类似<strong>ps</strong>里的魔法棒工具，快捷键：<strong>Y</strong></p>
 <p>但是这里的魔法棒可以通过选中魔法棒工具之后按<strong>回车键</strong>设置选中对象参数设置。等同于菜单栏的<strong>选择</strong>=&gt;<strong>相同</strong>=&gt;<strong>外观</strong></p>
-<h3 id="钢笔工具"><a href="#钢笔工具" class="headerlink" title="钢笔工具"></a>钢笔工具</h3><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920002112274.png" align='left' alt="image-20200920002112274"  />
+<h3 id="钢笔工具"><a href="#钢笔工具" class="headerlink" title="钢笔工具"></a>钢笔工具</h3><img src="http://www.huzhencong.cn/img/image-20200920002112274.pngimages" align='left' alt="image-20200920002112274"  />
 
 <p>钢笔工具是AI里最常用的工具了，快捷键“<strong>P</strong>”</p>
 <p>可以通过叠加<strong>alt</strong>（点击锚点可以切换锚点的锐角和圆滑状态）<strong>ctrl</strong>（拖动锚点位置）<strong>shift</strong>辅助你成比例决定下一个锚点和上一锚点的位置</p>
@@ -41,7 +41,7 @@
 <h3 id="文字工具"><a href="#文字工具" class="headerlink" title="文字工具"></a>文字工具</h3><blockquote>
 <p>编辑已有文字时候不需要手动切换工具，直接双击就好！</p>
 </blockquote>
-<img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920003418463.png" align='left' alt="image-20200920003418463"  />
+<img src="http://www.huzhencong.cn/img/image-20200920003418463.pngimages" align='left' alt="image-20200920003418463"  />
 
 <p>文字工具是另一个常用工具，快捷键“<strong>T</strong>”</p>
 <p>前三个工具可以根据使用情况自动判定无需手动切换，打字默认为横向，</p>
@@ -52,7 +52,7 @@
 </blockquote>
 <p>如果绘制的时候要求精准可以鼠标左键单击画布在弹出的窗口输入数值绘制</p>
 <p><strong>其他工具一样，不在一一赘述了</strong></p>
-<h3 id="形状工具"><a href="#形状工具" class="headerlink" title="形状工具"></a>形状工具</h3><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920011123734.png" align='left' alt="image-20200920011123734" style="zoom:100%;" />
+<h3 id="形状工具"><a href="#形状工具" class="headerlink" title="形状工具"></a>形状工具</h3><img src="http://www.huzhencong.cn/img/image-20200920011123734.pngimages" align='left' alt="image-20200920011123734" style="zoom:100%;" />
 
 <p>在使用形状工具的时候可以试试按住“**~**”可以在绘制图形的时候根据你鼠标的移动位置不断的复制（直线工具也可以！忘了说了）</p>
 <h4 id="星形工具"><a href="#星形工具" class="headerlink" title="星形工具"></a>星形工具</h4><p>星形工具的时候可以同时按住<strong>alt</strong>或者<strong>ctrl</strong>键切换内角的形式</p>
@@ -61,7 +61,9 @@
 <h3 id="笔工具"><a href="#笔工具" class="headerlink" title="笔工具"></a>笔工具</h3><blockquote>
 <p>建议搭配数位板食用！</p>
 </blockquote>
-<img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920124858632.png" alt="image-20200920124858632"  />]]></content>
+<img src="http://www.huzhencong.cn/img/image-20200920124858632.pngimages" alt="image-20200920124858632"  />
+
+]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
