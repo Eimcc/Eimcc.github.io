@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于markdown实现锚点功能的测试</title>
+    <url>/2020/09/20/%E5%85%B3%E4%BA%8Emarkdown%E5%AE%9E%E7%8E%B0%E9%94%9A%E7%82%B9%E5%8A%9F%E8%83%BD%E7%9A%84%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<blockquote>
+<p>虽然markdown可以根据标题层级生成目录方便跳转，但是有些地方不适用设置标题。<br>为了方便阅读所以要添加锚点，但是之前试了一种网上查到的方式最后发现无法实现页面内的跳转，然后在简书上看到一个方法在这里尝试下并做个记录以备后边使用</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="参考内容"><a href="#参考内容" class="headerlink" title="参考内容"></a>参考内容</h2><p><a href="https://blog.csdn.net/wangzhibo666/article/details/88731227">markdown如何实现锚点功能</a></p>
+<p><a href="%5Bhttps://baike.baidu.com/item/href/7779531?fr=aladdin#%E5%AE%9A%E4%B9%89%5D(https://baike.baidu.com/item/href/7779531?fr=aladdin#%E5%AE%9A%E4%B9%89)">href的定义</a></p>
+<h2 id="实例测试-以下均为A端→B端"><a href="#实例测试-以下均为A端→B端" class="headerlink" title="实例测试 以下均为A端→B端"></a>实例测试 <sub>以下均为A端→B端</sub></h2><p><a href="#%E9%A1%B5%E5%B0%BE">页尾</a>              <a id="页首">页首</a></p>
+<h4 id="第一种方法"><a href="#第一种方法" class="headerlink" title="第一种方法"></a>第一种方法</h4><figure class="highlight html"><table><tr><td class="code"><pre><span class="line">[页尾](#页尾)    <span class="comment">&lt;!--标记位置--&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">id</span>=<span class="string">&quot;页尾&quot;</span>&gt;</span>页尾<span class="tag">&lt;/<span class="name">a</span>&gt;</span>    <span class="comment">&lt;!--打上锚点--&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>然</p>
+<p>后</p>
+<p>这</p>
+<p>里</p>
+<p>是</p>
+<p>一</p>
+<p>堆</p>
+<p>占</p>
+<p>位</p>
+<p>的</p>
+<p>无</p>
+<p>意</p>
+<p>义</p>
+<p>文</p>
+<p>字</p>
+<h4 id="第二种方法"><a href="#第二种方法" class="headerlink" title="第二种方法"></a>第二种方法</h4><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;#页首&quot;</span>&gt;</span>页首<span class="tag">&lt;/<span class="name">a</span>&gt;</span>    <span class="comment">&lt;!--标记位置--&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">id</span>=<span class="string">&quot;页首&quot;</span>&gt;</span>页首<span class="tag">&lt;/<span class="name">a</span>&gt;</span>    <span class="comment">&lt;!--打上锚点--&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p><a id="页尾">页尾</a>              <a href="#页首">页首</a></p>
+]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>AI的一些快捷键！！！</title>
     <url>/2020/09/20/AI%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81%EF%BC%81%EF%BC%81/</url>
     <content><![CDATA[<blockquote>
@@ -20,16 +59,19 @@
 <li>随后启动全局编辑即可看到符合条件的对象变蓝（选中状态）就可以编辑了</li>
 </ol>
 <h2 id="个人常用操作："><a href="#个人常用操作：" class="headerlink" title="个人常用操作："></a>个人常用操作：</h2><ol>
-<li>使用不同的工具时候可以尝试同时按住<strong>shift</strong>、<strong>alt</strong>、或者<strong>ctrl</strong>键会有意外发现</li>
+<li><a id="A">使用不同的工具时候可以尝试同时按住<strong>shift</strong>、<strong>alt</strong>、或者<strong>ctrl</strong>键会有意外发现</a></li>
 <li>点击画布空白处可以在属性面板<img src="http://www.huzhencong.cn/img/image-20200920182310653.png" alt="image-20200920182310653" style="zoom:100%;" />设置每按一次<strong>↑、↓、←、→</strong>键时候选中对象的移动距离。同时按住<strong>shift</strong>键移动距离是十倍</li>
 <li>AI绘制的对象可以直接拉进PS里自动生成只能对象操作。双击图层面板智能对象位置可以回到AI源文件编辑并保存，此时ps会同步操作</li>
 <li>当你要做的两个东西颜色，描边，透明度等一样的时候不需要按照上一个一步一步的调，可以使用吸管“<strong>I</strong>”工具<img src="http://www.huzhencong.cn/img/image-20200920181650004.png" alt="image-20200920181650004" align='left' style="zoom:100%;" />直接吸取上一对象。双击吸管工具可以选择需要复制的参数内容。</li>
 <li></li>
 </ol>
-<h2 id="一些快捷技巧："><a href="#一些快捷技巧：" class="headerlink" title="一些快捷技巧："></a>一些快捷技巧：</h2><ol start="2">
-<li>“<strong>ctrl+D</strong>“快捷重复上一操作，免去重复移动、改色的痛苦</li>
-<li>旋转**”R”<strong>配合</strong>alt<strong>可以旋转并复制，再搭配</strong>ctrl+D**可以快速旋转复制制作同一圆点的多轴对称图形</li>
-<li>相同位置复制粘贴：贴在前面“<strong>ctrl+F</strong>”，贴在后面“<strong>ctrl+B</strong>”（直接ctrl+c，ctrl+v粘贴的位置有点儿随机，这两个快捷键是相对于画布位置唯一的）</li>
+<h2 id="一些快捷技巧："><a href="#一些快捷技巧：" class="headerlink" title="一些快捷技巧："></a>一些快捷技巧：</h2><ol>
+<li><p>“<strong>ctrl+D</strong>“快捷重复上一操作，免去重复移动、改色的痛苦</p>
+</li>
+<li><p>旋转**”R”<strong>配合</strong>alt<strong>可以旋转并复制，再搭配</strong>ctrl+D**可以快速旋转复制制作同一圆点的多轴对称图形</p>
+</li>
+<li><p>相同位置复制粘贴：贴在前面“<strong>ctrl+F</strong>”，贴在后面“<strong>ctrl+B</strong>”（直接ctrl+c，ctrl+v粘贴的位置有点儿随机，这两个快捷键是相对于画布位置唯一的）</p>
+</li>
 </ol>
 <h2 id="工具栏"><a href="#工具栏" class="headerlink" title="工具栏"></a>工具栏</h2><blockquote>
 <p>工具图标右下角有小三角的均表示此工具可以长按切换成其他类似工具，如图示矩形工具下包括“<strong>矩形工具</strong> *<strong>圆角矩形工具</strong> <strong>椭圆工具</strong>等<del>”但是AI不支持按住“<strong>shift</strong>键+同一快捷键切换同一图标下的工具”</del></p>
@@ -57,7 +99,7 @@
 <h4 id="文字横竖方向切换"><a href="#文字横竖方向切换" class="headerlink" title="文字横竖方向切换"></a>文字横竖方向切换</h4><p>如果需要竖向需要手动切换直排文字工具，不过如果忘了的话也可以在后期<strong>窗口</strong>=&gt;<strong>文字</strong>=&gt;<strong>字符</strong>（快捷键<strong>ctrl</strong>+<strong>T</strong>）在字符旋转里旋转-90度之后手动旋转字符对象的方向即可（如果字符窗口没显示字符旋转的话可以点击字符窗口右上角的菜单选中显示选项即可）</p>
 <h4 id="修饰文字工具"><a href="#修饰文字工具" class="headerlink" title="修饰文字工具"></a>修饰文字工具</h4><p>可以不用打散或者挨个选中编辑一段文字中的单独文字（包括“<strong>拉伸</strong> <strong>放大</strong> <strong>旋转</strong> <strong>移动位置</strong> <strong>颜色</strong> <strong>描边</strong> <strong>透明度</strong>等”）    快捷键<strong>shift</strong>+<strong>T</strong></p>
 <h3 id="直线工具"><a href="#直线工具" class="headerlink" title="直线工具"></a>直线工具</h3><blockquote>
-<p>除去直线工具常用，剩下的不常用如有需要可以结合“<strong>技巧1</strong>“自我尝试</p>
+<p>除去直线工具常用，剩下的不常用如有需要可以结合“**<a href="#A">第一个常用操作</a>**“自我尝试</p>
 </blockquote>
 <p>如果绘制的时候要求精准可以鼠标左键单击画布在弹出的窗口输入数值绘制</p>
 <p><strong>其他工具一样，不在一一赘述了</strong></p>

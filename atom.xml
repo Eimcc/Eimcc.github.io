@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-20T12:16:14.736Z</updated>
+  <updated>2020-09-20T13:36:12.749Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于markdown实现锚点功能的测试</title>
+    <link href="http://example.com/2020/09/20/%E5%85%B3%E4%BA%8Emarkdown%E5%AE%9E%E7%8E%B0%E9%94%9A%E7%82%B9%E5%8A%9F%E8%83%BD%E7%9A%84%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2020/09/20/%E5%85%B3%E4%BA%8Emarkdown%E5%AE%9E%E7%8E%B0%E9%94%9A%E7%82%B9%E5%8A%9F%E8%83%BD%E7%9A%84%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-09-20T12:39:00.000Z</published>
+    <updated>2020-09-20T13:36:12.749Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;虽然markdown可以根据标题层级生成目录方便跳转，但是有些地方不适用设置标题。&lt;br&gt;为了方便阅读所以要添加锚点，但是之前试了一种网上查到的方式最后发现无法实现页面内的跳转，然后在简书上看到一个方法在这里尝试下并做个记录以备后边使用&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="编程" scheme="http://example.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="markdown" scheme="http://example.com/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
     <title>AI的一些快捷键！！！</title>
     <link href="http://example.com/2020/09/20/AI%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81%EF%BC%81%EF%BC%81/"/>
     <id>http://example.com/2020/09/20/AI%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81%EF%BC%81%EF%BC%81/</id>
     <published>2020-09-20T03:56:42.000Z</published>
-    <updated>2020-09-20T12:16:14.736Z</updated>
+    <updated>2020-09-20T13:45:06.649Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
