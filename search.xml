@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>AI的一些快捷键！！！</title>
+    <url>/2020/09/20/AI%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81%EF%BC%81%EF%BC%81/</url>
+    <content><![CDATA[<blockquote>
+<p>本篇文字是基于Adobe Illustrator 版本：<em>2020</em> 软件写作，未来可能会根据更新增加新的内容，如果有些操作不能实现请查看版本升级。</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="全局编辑"><a href="#全局编辑" class="headerlink" title="全局编辑"></a>全局编辑</h2><p>首先介绍全局编辑这个是2020版本新增的功能，个人认为特别为UI设计师局部修改提升效率</p>
+<p>位置=&gt;属性面板</p>
+<p>使用方法：</p>
+<ol>
+<li>选中编辑对象</li>
+<li>如图需要先设置匹配的条件外观（描边和填色的属性）和大小以及需要同步的位置（多个画板需要勾选）</li>
+</ol>
+<p><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200919233923272.png" alt="image-20200919233923272"></p>
+<ol start="3">
+<li>随后启动全局编辑即可看到符合条件的对象变蓝（选中状态）就可以编辑了</li>
+</ol>
+<h2 id="一些技巧"><a href="#一些技巧" class="headerlink" title="一些技巧"></a>一些技巧</h2><ol>
+<li><a href="技巧1">使用不同的工具时候可以尝试同时按住<strong>shift</strong>、<strong>alt</strong>、或者<strong>ctrl</strong>键会有意外发现</a></li>
+<li></li>
+</ol>
+<h2 id="工具栏"><a href="#工具栏" class="headerlink" title="工具栏"></a>工具栏</h2><blockquote>
+<p>工具图标右下角有小三角的均表示此工具可以长按切换成其他类似工具，如图示矩形工具下包括“<strong>矩形工具</strong> <strong>圆角矩形工具**</strong> <strong>椭圆工具</strong>等”但是AI不支持按住“<strong>shift</strong>键+同一快捷键切换同一图标下的工具”</p>
+<p><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920000633214.png" alt="image-20200920000633214"></p>
+</blockquote>
+<h3 id="魔棒工具"><a href="#魔棒工具" class="headerlink" title="魔棒工具"></a>魔棒工具</h3><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920001105007.png" align='left' alt="image-20200920001105007"  />
+
+<p>类似<strong>ps</strong>里的魔法棒工具，快捷键：<strong>Y</strong></p>
+<p>但是这里的魔法棒可以通过选中魔法棒工具之后按<strong>回车键</strong>设置选中对象参数设置。等同于菜单栏的<strong>选择</strong>=&gt;<strong>相同</strong>=&gt;<strong>外观</strong></p>
+<h3 id="钢笔工具"><a href="#钢笔工具" class="headerlink" title="钢笔工具"></a>钢笔工具</h3><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920002112274.png" align='left' alt="image-20200920002112274"  />
+
+<p>钢笔工具是AI里最常用的工具了，快捷键“<strong>P</strong>”</p>
+<p>可以通过叠加<strong>alt</strong>（点击锚点可以切换锚点的锐角和圆滑状态）<strong>ctrl</strong>（拖动锚点位置）<strong>shift</strong>辅助你成比例决定下一个锚点和上一锚点的位置</p>
+<blockquote>
+<p>tip:heart:如果你的钢笔工具在移动到锚点位置钢笔上的<em>字没有变成 **-**的话你可以通过</em>  <strong>alt</strong>和<strong>ctrl</strong>键切换增加删除锚点功能</p>
+</blockquote>
+<h3 id="文字工具"><a href="#文字工具" class="headerlink" title="文字工具"></a>文字工具</h3><blockquote>
+<p>编辑已有文字时候不需要手动切换工具，直接双击就好！</p>
+</blockquote>
+<img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920003418463.png" align='left' alt="image-20200920003418463"  />
+
+<p>文字工具是另一个常用工具，快捷键“<strong>T</strong>”</p>
+<p>前三个工具可以根据使用情况自动判定无需手动切换，打字默认为横向，</p>
+<h4 id="文字横竖方向切换"><a href="#文字横竖方向切换" class="headerlink" title="文字横竖方向切换"></a>文字横竖方向切换</h4><p>如果需要竖向需要手动切换直排文字工具，不过如果忘了的话也可以在后期<strong>窗口</strong>=&gt;<strong>文字</strong>=&gt;<strong>字符</strong>（快捷键<strong>ctrl</strong>+<strong>T</strong>）在字符旋转里旋转-90度之后手动旋转字符对象的方向即可（如果字符窗口没显示字符旋转的话可以点击字符窗口右上角的菜单选中显示选项即可）</p>
+<h4 id="修饰文字工具"><a href="#修饰文字工具" class="headerlink" title="修饰文字工具"></a>修饰文字工具</h4><p>可以不用打散或者挨个选中编辑一段文字中的单独文字（包括“<strong>拉伸</strong> <strong>放大</strong> <strong>旋转</strong> <strong>移动位置</strong> <strong>颜色</strong> <strong>描边</strong> <strong>透明度</strong>等”）    快捷键<strong>shift</strong>+<strong>T</strong></p>
+<h3 id="直线工具"><a href="#直线工具" class="headerlink" title="直线工具"></a>直线工具</h3><blockquote>
+<p>除去直线工具常用，剩下的不常用如有需要可以结合<a name="技巧1">“<strong>技巧1</strong>“</a>自我尝试</p>
+</blockquote>
+<p>如果绘制的时候要求精准可以鼠标左键单击画布在弹出的窗口输入数值绘制</p>
+<p><strong>其他工具一样，不在一一赘述了</strong></p>
+<h3 id="形状工具"><a href="#形状工具" class="headerlink" title="形状工具"></a>形状工具</h3><img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920011123734.png" align='left' alt="image-20200920011123734" style="zoom:100%;" />
+
+<p>在使用形状工具的时候可以试试按住“**~**”可以在绘制图形的时候根据你鼠标的移动位置不断的复制（直线工具也可以！忘了说了）</p>
+<h4 id="星形工具"><a href="#星形工具" class="headerlink" title="星形工具"></a>星形工具</h4><p>星形工具的时候可以同时按住<strong>alt</strong>或者<strong>ctrl</strong>键切换内角的形式</p>
+<h4 id="光晕工具"><a href="#光晕工具" class="headerlink" title="光晕工具"></a>光晕工具</h4><p>光晕工具是可以绘制完直接拉进ps成为智能对象，然后设置叠加方式为滤色就可以省去绘制光晕效果啦                AI里绘制的对象都可以直接拉进ps使用，默认为智能对象，可以双击返回AI编辑然后保存即可同步到ps</p>
+<p>然后在绘制光晕的同时可以按住<strong>ctrl</strong>键设置外边的光环的大小</p>
+<h3 id="笔工具"><a href="#笔工具" class="headerlink" title="笔工具"></a>笔工具</h3><blockquote>
+<p>建议搭配数位板食用！</p>
+</blockquote>
+<img src="C:\Users\eimcc\AppData\Roaming\Typora\typora-user-images\image-20200920124858632.png" alt="image-20200920124858632"  />]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/09/20/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>

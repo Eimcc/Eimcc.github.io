@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>胡糯北</title>
+  
+  <subtitle>人生很长，时间足够你爱</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-09-20T08:42:12.836Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AI的一些快捷键！！！</title>
+    <link href="http://example.com/2020/09/20/AI%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81%EF%BC%81%EF%BC%81/"/>
+    <id>http://example.com/2020/09/20/AI%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%AB%E6%8D%B7%E9%94%AE%EF%BC%81%EF%BC%81%EF%BC%81/</id>
+    <published>2020-09-20T03:56:42.000Z</published>
+    <updated>2020-09-20T08:42:12.836Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;本篇文字是基于Adobe Illustrator 版本：&lt;em&gt;2020&lt;/em&gt; 软件写作，未来可能会根据更新增加新的内容，如果有些操作不能实现请查看版本升级。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2020/09/20/hello-world/"/>
+    <id>http://example.com/2020/09/20/hello-world/</id>
+    <published>2020-09-20T03:40:15.211Z</published>
+    <updated>2020-09-20T03:40:15.212Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
